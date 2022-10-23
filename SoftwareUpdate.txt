@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+YOLOv8 INT8 TFLite Inference Example (#7317)
