@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Update fraction arg to employ a random selection (#8234)
