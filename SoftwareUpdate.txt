@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
