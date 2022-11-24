@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
