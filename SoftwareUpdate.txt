@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Elaborate Train and Predict mode docs arguments (#8137)
