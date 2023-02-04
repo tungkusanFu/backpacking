@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
