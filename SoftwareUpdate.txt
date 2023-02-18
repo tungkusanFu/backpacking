@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Update the heatmap module code + docs (#7045)
