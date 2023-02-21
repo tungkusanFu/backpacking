@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Fix OBB xywh-angle concatenation bug (#7404)
