@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+fix yolo classify model loading error (#9196)
