@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Add Amazon Sagemaker Docs integrations page (#7293)
