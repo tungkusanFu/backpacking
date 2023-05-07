@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add docs guide terminal images (#8819)
