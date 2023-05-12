@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Use pathlib in DOTA ops (#7552)
