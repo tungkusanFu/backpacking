@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update OpenVINO INT8 export (#7515)
