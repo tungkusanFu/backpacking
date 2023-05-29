@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Update format.yml to pull_request_target (#7460)
