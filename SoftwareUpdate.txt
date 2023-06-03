@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
