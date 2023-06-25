@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add estimate_speed(region_color) parameter (#8285)
