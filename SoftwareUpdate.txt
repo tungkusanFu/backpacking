@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Update format.yml to pull_request_target (#7460)
