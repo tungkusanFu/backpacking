@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
