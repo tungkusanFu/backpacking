@@ -1,1 +1,1 @@
-fix print val map
+Add type hinting to explorer.py (#7388)
