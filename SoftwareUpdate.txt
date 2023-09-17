@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix OpenVINO links (#7930)
