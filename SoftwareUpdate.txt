@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
