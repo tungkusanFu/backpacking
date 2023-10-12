@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
