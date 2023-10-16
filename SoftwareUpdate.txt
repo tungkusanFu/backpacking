@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Update H1 in Explorer API docs (#7813)
