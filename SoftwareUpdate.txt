@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies giữa devices)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
