@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add quantization support to TensorFlow.js converter (#7008)
