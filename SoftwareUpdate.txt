@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
