@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Compress docs images (#8124)
