@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+TensorRT FP16 export with dynamic=True (#7870)
