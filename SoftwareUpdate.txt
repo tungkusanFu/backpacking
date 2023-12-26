@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
