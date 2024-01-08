@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
