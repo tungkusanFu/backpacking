@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Fix Multi-GPU resume bug (#7328)
