@@ -1,1 +1,1 @@
-fix resume training
+Update inference.cpp (bug) (#7279)
