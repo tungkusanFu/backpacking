@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add PR Summary step to Ultralytics Actions (#7675)
