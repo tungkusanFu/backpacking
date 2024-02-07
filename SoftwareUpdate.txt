@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Update OpenVINO INT8 export (#7515)
