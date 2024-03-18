@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
