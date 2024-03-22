@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Add plot_images conf_thresh parameter (#8446)
