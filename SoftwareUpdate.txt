@@ -1,1 +1,1 @@
-fix non-coco val
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
