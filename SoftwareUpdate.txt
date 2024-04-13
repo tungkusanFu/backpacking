@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+docs: update view-results-in-terminal.md (#66)
