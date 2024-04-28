@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Fix RTDETR generate anchor grid out of boundary (#7247)
