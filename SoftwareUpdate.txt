@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
